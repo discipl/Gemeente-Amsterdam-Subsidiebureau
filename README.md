@@ -11,7 +11,7 @@ Help gemeente Amsterdam een perspectief te schetsen (business, functioneel, arch
 
 # Aanpak
 
-Dit project behelst het realiseren van een werkend prototype op basis van de beschreven specificaties vanuit de Subsidie Stimulering schoon vervoer (zie https://www.amsterdam.nl/veelgevraagd/?productid=%7BA0E6864C-6AF2-4F97-93CC-2416BED3FB36%7D#). Hiermee moet een volledige automatisering van de uitvoering van deze regeling verkend kunnen worden. Bij een prototype moet gedacht worden aan een demo die getoond kan worden aan Subsidieburea Gemeente Amsterdam en relevante stakeholders. 
+Dit project behelst het realiseren van een werkend prototype op basis van de beschreven specificaties vanuit de Subsidie Stimulering schoon vervoer (zie https://www.amsterdam.nl/veelgevraagd/?productid=%7BA0E6864C-6AF2-4F97-93CC-2416BED3FB36%7D#). Hiermee moet een volledige automatisering van de uitvoering van deze regeling verkend kunnen worden. Bij een prototype moet gedacht worden aan een demo die getoond kan worden aan het Subsidiebureau van de Gemeente Amsterdam en relevante stakeholders. 
 
 De Expertisegroep Business Rule Management (BRM, zie: https://expertisegroep-brm.pleio.nl/) is een expertisegroep die ontstaan is vanuit de Manifestgroep (deelnemende organisaties zijn de Belastingdienst, DUO, IND, Rijkswaterstaat, SVB en UWV). Deze expertisegroep Business Rule Management is inhoudelijk deskundig op de ondubbelzinnige interpretatie van de regeling van de subsidieregeling Lerarenbeurs. Het is een wens van de opdrachtgever om met deze partij samen te werken. Bij een andere opdracht (zie https://github.com/discipl/Waardewisselaar) zijn hiermee goede ervaringen opgedaan die herbruikbaar blijken voor deze opdracht. 
 
